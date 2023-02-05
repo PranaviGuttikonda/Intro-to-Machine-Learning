@@ -1,4 +1,4 @@
 # Intro-to-Machine-Learning
-##PRANAVI GUTTIKONDA
+## PRANAVI GUTTIKONDA
 
-##700744258
+## 700744258
